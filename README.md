@@ -25,8 +25,8 @@ To ensure **reproducibility**—a critical standard in cryptographic research—
 ### 1. Clone the Repository
 
 ```
-git clone https://github.com/[YourUsername]/[YourRepo].git
-cd [YourRepo]
+git clone https://github.com/wwwchenke/A2F.git
+cd A2F
 ```
 
 ### 2. Build from Source and Run the PoC
